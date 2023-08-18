@@ -1,0 +1,6 @@
+C:\Users\20666\Desktop\Project\temp\新建文件夹\factory io\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\20666\Desktop\Project\temp\新建文件夹\factory io\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\20666\Desktop\Project\temp\新建文件夹\factory io\ClassLibrary1\obj\Release\DataLib.csproj.AssemblyReference.cache
+C:\Users\20666\Desktop\Project\temp\新建文件夹\factory io\ClassLibrary1\obj\Release\DataLib.csproj.CoreCompileInputs.cache
+C:\Users\20666\Desktop\Project\temp\新建文件夹\factory io\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\20666\Desktop\Project\temp\新建文件夹\factory io\ClassLibrary1\obj\Release\ClassLibrary1.pdb

@@ -1,0 +1,16 @@
+C:\Users\20666\Desktop\Project\temp\新建文件夹\factory io\智能立库上位机（新）\bin\Release\智能立库上位机（新）.exe.config
+C:\Users\20666\Desktop\Project\temp\新建文件夹\factory io\智能立库上位机（新）\bin\Release\智能立库上位机（新）.exe
+C:\Users\20666\Desktop\Project\temp\新建文件夹\factory io\智能立库上位机（新）\bin\Release\智能立库上位机（新）.pdb
+C:\Users\20666\Desktop\Project\temp\新建文件夹\factory io\智能立库上位机（新）\bin\Release\S7.Net.xml
+C:\Users\20666\Desktop\Project\temp\新建文件夹\factory io\智能立库上位机（新）\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\20666\Desktop\Project\temp\新建文件夹\factory io\智能立库上位机（新）\obj\Release\智能立库上位机（新）.csproj.AssemblyReference.cache
+C:\Users\20666\Desktop\Project\temp\新建文件夹\factory io\智能立库上位机（新）\obj\Release\智能立库上位机（新）.csproj.SuggestedBindingRedirects.cache
+C:\Users\20666\Desktop\Project\temp\新建文件夹\factory io\智能立库上位机（新）\obj\Release\智能立库上位机_新_.Form1.resources
+C:\Users\20666\Desktop\Project\temp\新建文件夹\factory io\智能立库上位机（新）\obj\Release\智能立库上位机_新_.Properties.Resources.resources
+C:\Users\20666\Desktop\Project\temp\新建文件夹\factory io\智能立库上位机（新）\obj\Release\智能立库上位机（新）.csproj.GenerateResource.cache
+C:\Users\20666\Desktop\Project\temp\新建文件夹\factory io\智能立库上位机（新）\obj\Release\智能立库上位机（新）.csproj.CoreCompileInputs.cache
+C:\Users\20666\Desktop\Project\temp\新建文件夹\factory io\智能立库上位机（新）\obj\Release\智能立库上位机（新）.csproj.Fody.CopyLocal.cache
+C:\Users\20666\Desktop\Project\temp\新建文件夹\factory io\智能立库上位机（新）\obj\Release\智能立库上位机（新）.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\20666\Desktop\Project\temp\新建文件夹\factory io\智能立库上位机（新）\obj\Release\智能立库上位机（新）.csproj.CopyComplete
+C:\Users\20666\Desktop\Project\temp\新建文件夹\factory io\智能立库上位机（新）\obj\Release\智能立库上位机（新）.exe
+C:\Users\20666\Desktop\Project\temp\新建文件夹\factory io\智能立库上位机（新）\obj\Release\智能立库上位机（新）.pdb

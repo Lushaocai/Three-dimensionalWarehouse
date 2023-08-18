@@ -1,0 +1,12 @@
+C:\Users\20666\Desktop\Project\temp\新建文件夹\factory io\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\20666\Desktop\Project\temp\新建文件夹\factory io\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\20666\Desktop\Project\temp\新建文件夹\factory io\ClassLibrary1\obj\Debug\DataLib.csproj.AssemblyReference.cache
+C:\Users\20666\Desktop\Project\temp\新建文件夹\factory io\ClassLibrary1\obj\Debug\DataLib.csproj.CoreCompileInputs.cache
+C:\Users\20666\Desktop\Project\temp\新建文件夹\factory io\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\20666\Desktop\Project\temp\新建文件夹\factory io\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\20666\Desktop\面试项目整合\上位机\Visual Studio源文件\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\20666\Desktop\面试项目整合\上位机\Visual Studio源文件\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\20666\Desktop\面试项目整合\上位机\Visual Studio源文件\ClassLibrary1\obj\Debug\DataLib.csproj.AssemblyReference.cache
+C:\Users\20666\Desktop\面试项目整合\上位机\Visual Studio源文件\ClassLibrary1\obj\Debug\DataLib.csproj.CoreCompileInputs.cache
+C:\Users\20666\Desktop\面试项目整合\上位机\Visual Studio源文件\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\20666\Desktop\面试项目整合\上位机\Visual Studio源文件\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
